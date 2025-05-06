@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Your iLeadIt Account</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; background: #f5f7fa; color: #1a2330; margin: 0; padding: 0; }
+        .container { max-width: 600px; margin: 40px auto; background: #fff; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.07); padding: 32px 24px; }
+        h1 { color: #264a7b; }
+        .steps { margin: 24px 0; }
+        .steps li { margin-bottom: 12px; }
+        .email-link { color: #bc1062; font-weight: bold; text-decoration: none; }
+        .retention { font-size: 0.97em; color: #555; margin-top: 24px; }
+        .app-name { font-weight: bold; color: #264a7b; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Request Account Deletion</h1>
+        <p>
+            If you wish to delete your <span class="app-name">iLeadIt</span> account and all associated data, please follow the steps below. This process is in accordance with our privacy policy and Google Play requirements.
+        </p>
+        <ol class="steps">
+            <li>
+                Email us at 
+                <a class="email-link" href="mailto:admin@kranthews.com?subject=Account%20Deletion%20Request%20(iLeadIt)">
+                    admin@kranthews.com
+                </a>
+                from the email address associated with your iLeadIt account.
+            </li>
+            <li>
+                In your email, please include:
+                <ul>
+                    <li>Your full name (optional, for verification)</li>
+                    <li>The email address linked to your iLeadIt account</li>
+                    <li>Any additional information to help us verify your identity</li>
+                </ul>
+            </li>
+            <li>
+                We will process your request within 7 days and notify you once your account and all associated data have been permanently deleted.
+            </li>
+        </ol>
+        <div class="retention">
+            <strong>Data Deletion Details:</strong><br>
+            All personal data, activity history, and account information will be permanently deleted from our servers. No data is retained after deletion. For more information, please see our <a href="https://www.kranthews.com/privacy/ileadit.html">Privacy Policy</a>.
+        </div>
+        <div style="margin-top:32px; font-size:0.95em; color:#888;">
+            Developer: Kranthews<br>
+            App: iLeadIt
+        </div>
+    </div>
+</body>
+</html>
